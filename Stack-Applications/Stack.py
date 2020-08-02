@@ -1,5 +1,5 @@
 """
-The main aim of operations of stack ie push() and pop() is to execure in O(1) time ie
+The main aim of operations of stack ie push() and pop() is to execute in O(1) time ie
 constant time.
 In linked list, inserting and deleting an element at the end requires traversing the
 entire linked list which would result in O(n) complexity
