@@ -5,7 +5,7 @@
 2. [Doubly Linked List](./DoublyLinkedList.py)
 3. [Stack Basics](./Stack-Applications/StackTesting.py)
    1. **Stack Applications**
-      1. [Stack Operations](./Stack-Applications/Stack.py)
+      1. [Stack Operations (This file needs to be imported in all the below stack applications for using the basic stack functionalities)](./Stack-Applications/Stack.py)
       2. [String Reversal](./Stack-Applications/StringReversal.py)
       3. [Linked List Reversal](./Stack-Applications/LinkedListReversal.py)
       4. [Balanced Parenthesis](./Stack-Applications/BalancedParenthesis.py)
