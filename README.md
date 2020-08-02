@@ -11,4 +11,4 @@
       4. [Balanced Parenthesis](./Stack-Applications/BalancedParenthesis.py)
       5. [Infix to Postfix expression](./Stack-Applications/InfixToPostfix.py)
       6. [Postfix expression evaluation](./Stack-Applications/EvaluatePostFix.py)
-      7. [Prefix expression evaluation](.//Stack-Applications/EvaluatePreFix.py)
+      7. [Prefix expression evaluation](.//Stack-Applications/EvaluatePrefix.py)
