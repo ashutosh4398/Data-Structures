@@ -1,6 +1,6 @@
 # Data Structures with Python
 
-### data structues
+### data structures
 1. [Linked List](./LinkedList.py)
 2. [Doubly Linked List](./DoublyLinkedList.py)
 3. [Stack Basics](./Stack-Applications/StackTesting.py)
@@ -12,3 +12,4 @@
       5. [Infix to Postfix expression](./Stack-Applications/InfixToPostfix.py)
       6. [Postfix expression evaluation](./Stack-Applications/EvaluatePostFix.py)
       7. [Prefix expression evaluation](.//Stack-Applications/EvaluatePrefix.py)
+4. [Linear Queues](./Queue.py)
