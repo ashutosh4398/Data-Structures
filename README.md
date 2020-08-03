@@ -14,3 +14,4 @@
       7. [Prefix expression evaluation](.//Stack-Applications/EvaluatePrefix.py)
 4. [Linear Queue using array](./Queue.py)
 5. [Circular Queue using array](./circularQueue.py)
+6. [Linear Queue using Linked List](./QueueLL.py)
