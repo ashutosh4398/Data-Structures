@@ -12,4 +12,5 @@
       5. [Infix to Postfix expression](./Stack-Applications/InfixToPostfix.py)
       6. [Postfix expression evaluation](./Stack-Applications/EvaluatePostFix.py)
       7. [Prefix expression evaluation](.//Stack-Applications/EvaluatePrefix.py)
-4. [Linear Queues](./Queue.py)
+4. [Linear Queue using array](./Queue.py)
+5. [Circular Queue using array](./circularQueue.py)
