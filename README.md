@@ -15,3 +15,6 @@
 4. [Linear Queue using array](./Queue.py)
 5. [Circular Queue using array](./circularQueue.py)
 6. [Linear Queue using Linked List](./QueueLL.py)
+8. **Sorting Algorithms**
+   1. [Selection Sort](./selectionSort.py)
+   2. [Bubble Sort](./bubbleSort.py)
