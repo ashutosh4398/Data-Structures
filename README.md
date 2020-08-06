@@ -18,3 +18,5 @@
 8. **Sorting Algorithms**
    1. [Selection Sort](./selectionSort.py)
    2. [Bubble Sort](./bubbleSort.py)
+   3. [Insertion Sort](./insertionSort.py)
+   4. [Merge Sort](./mergeSort.py)
