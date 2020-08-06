@@ -20,3 +20,4 @@
    2. [Bubble Sort](./bubbleSort.py)
    3. [Insertion Sort](./insertionSort.py)
    4. [Merge Sort](./mergeSort.py)
+   5. [Quick Sort](./quickSort.py)
